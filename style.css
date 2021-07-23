@@ -125,19 +125,21 @@ body {
   margin: 20px 10px;
   margin-bottom: 5px;
   opacity: 0.7;
+  filter: grayscale(100);
 }
 
 .testimonial figure img.main {
   width: 90px;
   opacity: 1;
   margin-top: 5px;
+  filter: grayscale(0);
 }
 
 .testimonial figure h5 {
   font-size: 16px;
   font-weight: 500;
   font-style: normal;
-  color: #367355;
+  color: #399e6b;
 }
 
 .testimonial figure p {
